@@ -18,6 +18,12 @@
 2. No seu dispositivo, habilite a opção ***"Instalar apps de fontes desconhecidas"*** nas configurações de segurança.
 3. Abra o arquivo APK baixado e siga as instruções de instalação.
 
+## ☕ Apoie o Projeto
+
+Se você gosta do **Retro Achieve+** e deseja apoiar o desenvolvimento contínuo, considere fazer uma doação. Cada contribuição ajuda a melhorar o aplicativo e manter o projeto ativo!
+
+[![Doe no Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrs)
+
 ## 📜 Licença
 
 Retro Achieve+ é um projeto privado.Todos os direitos reservados. Nenhuma , modificação ou uso comercial é permitido sem autorização explícita.
