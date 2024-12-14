@@ -26,4 +26,4 @@ Se você gosta do **Retro Achieve+** e deseja apoiar o desenvolvimento contínuo
 
 ## 📜 Licença
 
-Retro Achieve+ é um projeto privado.Todos os direitos reservados. Nenhuma , modificação ou uso comercial é permitido sem autorização explícita.
+Retro Achieve+ é um projeto privado. Todos os direitos reservados. Nenhuma , modificação ou uso comercial é permitido sem autorização explícita.
