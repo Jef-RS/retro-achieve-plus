@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="200" alt="Logo do Retro Achieve+" />
+  <img src="../assets/icon.png" width="200" alt="Logo do Retro Achieve+" />
 </div>
 
 <h1 align="center">
@@ -23,14 +23,14 @@
 </h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 42px; flex-wrap: wrap;">
-  <img src="assets/screenshots/1.png" width="200" alt="Captura de tela do Retro Achieve+" />
-  <img src="assets/screenshots/2.png" width="200" alt="Captura de tela do Retro Achieve+" />
-  <img src="assets/screenshots/9.png" width="200" alt="Captura de tela do Retro Achieve+" />
-  <img src="assets/screenshots/8.png" width="200" alt="Captura de tela do Retro Achieve+" />
+  <img src="../assets/screenshots/1.png" width="200" alt="Captura de tela do Retro Achieve+" />
+  <img src="../assets/screenshots/2.png" width="200" alt="Captura de tela do Retro Achieve+" />
+  <img src="../assets/screenshots/9.png" width="200" alt="Captura de tela do Retro Achieve+" />
+  <img src="../assets/screenshots/8.png" width="200" alt="Captura de tela do Retro Achieve+" />
 </div>
 
 <p align="center">
-  Aqui estão algumas capturas de tela chave do aplicativo. Você pode ver mais capturas de tela <a href="assets/screenshots">[aqui]</a>.
+  Aqui estão algumas capturas de tela chave do aplicativo. Você pode ver mais capturas de tela <a href="../assets/screenshots">[aqui]</a>.
 </p>
 
 ## 🚀 Como Instalar
