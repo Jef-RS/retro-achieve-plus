@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/icon.png" width="200" alt="Retro Achieve+ logo" />
+</div>
+
 <h1 align="center">
   Retro Achieve+
 </h1>
@@ -14,6 +18,22 @@
 - 🔎 **Filter Achievements**: Filter types of achievements for easier navigation.
 - 🎨 **Fluid Interface**: Optimized design for an intuitive and modern experience.
 
+<h2 align="center">
+  📷 Screenshots
+</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 42px; flex-wrap: wrap;">
+  <img src="assets/screenshots/1.png" width="200" alt="Retro Achieve+ screenshot" />
+  <img src="assets/screenshots/2.png" width="200" alt="Retro Achieve+ screenshot" />
+  <img src="assets/screenshots/9.png" width="200" alt="Retro Achieve+ screenshot" />
+  <img src="assets/screenshots/8.png" width="200" alt="Retro Achieve+ screenshot" />
+</div>
+
+<p align="center">
+  Here are some key screenshots of the app. You can view more screenshots <a href="assets/screenshots">[here]</a>.
+</p>
+
+
 ## 🚀 How to Install
 
 1. Download the APK file from the [Releases](https://github.com/jef-rs/retro-achieve-plus/releases) section.
@@ -22,7 +42,7 @@
 
 ## ☕ Support the Project
 
-If you enjoy **Retro Achieve+** and want to support its continuous development, consider making a donation. Every contribution helps improve the app and keep the project alive!
+If you enjoy **Retro Achieve+** and want to support its continuous development, consider making a donation. Every contribution helps improve the app and keep the project alive! ❤️
 
 [![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrs)
 
