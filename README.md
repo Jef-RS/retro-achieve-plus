@@ -6,6 +6,12 @@
   Retro Achieve+
 </h1>
 
+<div align="center">
+
+[![PT-BR](https://img.shields.io/badge/lang-pt--BR-green)](docs/README.pt-BR.md)
+
+</div>
+
 **Retro Achieve+** is an app designed to track your achievements and progress in retro games using the [Retro Achievements](https://retroachievements.org/) API. It offers a user-friendly and modern interface to explore your favorite games and monitor your performance.
 
 ## 📋 Features
