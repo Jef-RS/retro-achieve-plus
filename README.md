@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Jef-RS/retro-achieve-plus/blob/main/assets/icon.png" width="200" alt="Retro Achieve+ logo" />
+</div>
+
 <h1 align="center">
   Retro Achieve+
 </h1>
@@ -13,6 +17,17 @@
 - ⭐ **Favorites**: Add other users to your favorites list to track their progress.
 - 🔎 **Filter Achievements**: Filter types of achievements for easier navigation.
 - 🎨 **Fluid Interface**: Optimized design for an intuitive and modern experience.
+
+<h2 align="center">
+  📷 Screenshots
+</h2>
+
+<div style="display: flex; justify-content: center; gap: 42px; flex-wrap: wrap;">
+  <img src="assets/screenshots/1.png" width="200" alt="Retro Achieve+ screenshot" />
+  <img src="assets/screenshots/2.png" width="200" alt="Retro Achieve+ screenshot" />
+  <img src="assets/screenshots/9.png" width="200" alt="Retro Achieve+ screenshot" />
+  <img src="assets/screenshots/8.png" width="200" alt="Retro Achieve+ screenshot" />
+</div>
 
 ## 🚀 How to Install
 
