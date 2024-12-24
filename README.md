@@ -52,6 +52,9 @@ If you enjoy **Retro Achieve+** and want to support its continuous development, 
 
 [![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrs)
 
+### ❖ PIX
+<img src="./assets/qrcode-pix.png" width="200" alt="Chave Pix" />
+
 ## 📜 License
 
 Retro Achieve+ is a private project. All rights reserved. No modification or commercial use is allowed without explicit authorization.
