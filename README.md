@@ -40,20 +40,18 @@
 </p>
 
 
-## 🚀 How to Install
+## 📥 Download Retro Achieve
 
-1. Download the APK file from the [Releases](https://github.com/jef-rs/retro-achieve-plus/releases) section.
-2. On your device, enable the **_"Install apps from unknown sources"_** option in your security settings.
-3. Open the downloaded APK file and follow the installation instructions.
+**Retro Achieve** is now available on the Google Play Store!
+
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.jetnox.retroachieve)
+
 
 ## ☕ Support the Project
 
 If you enjoy **Retro Achieve+** and want to support its continuous development, consider making a donation. Every contribution helps improve the app and keep the project alive! ❤️
 
 [![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrs)
-
-### ❖ PIX
-<img src="./assets/qrcode-pix.png" width="200" alt="Chave Pix" />
 
 ## 📜 License
 
